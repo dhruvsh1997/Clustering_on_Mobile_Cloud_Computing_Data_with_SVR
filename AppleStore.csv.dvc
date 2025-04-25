@@ -1,0 +1,5 @@
+outs:
+- md5: 23be2a238e329154b090c74498d270a8
+  size: 837657
+  hash: md5
+  path: AppleStore.csv
